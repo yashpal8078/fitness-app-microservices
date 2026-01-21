@@ -18,15 +18,17 @@ Microservices provide:
 
 ## 📦 Project Structure
 
-fitness-app-microservices/
-├── activityservice/ # Tracks fitness activities
-├── aiservice/ # AI or analytics related service
-├── configserver/ # Centralized configuration for services
-├── eureka/ # Service discovery (Eureka Server)
-├── gateway/ # API Gateway for routing requests
-├── userservice/ # User account & profile management
-└── fitness-app-frontend/ # Frontend web application/
 
+
+```text
+fitness-app-microservices/
+├── activityservice/     # Domain: Activity logging & metrics
+├── aiservice/           # Domain: AI-powered fitness recommendations
+├── userservice/         # Domain: Profile management & Auth
+├── configserver/        # Infrastructure: Centralized YAML/Properties
+├── eureka/              # Infrastructure: Service Registration
+├── gateway/             # Infrastructure: Routing & Security
+└── fitness-app-frontend/# UI: React.js Dashboard
 
 Each folder represents a separate module or service in the system.
 
