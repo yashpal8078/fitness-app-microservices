@@ -29,6 +29,7 @@ fitness-app-microservices/
 ├── eureka/              # Infrastructure: Service Registration
 ├── gateway/             # Infrastructure: Routing & Security
 └── fitness-app-frontend/# UI: React.js Dashboard
+```
 
 Each folder represents a separate module or service in the system.
 
