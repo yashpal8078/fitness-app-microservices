@@ -42,11 +42,11 @@ Each folder represents a separate module or service in the system.
 | Service Discovery | Eureka |
 | API Routing | Spring Cloud Gateway |
 | Configuration | Spring Cloud Config |
-| Frontend | React / Angular / Vue |
+| Frontend | React |
 | Build Tool | Maven |
 | Communication | REST APIs |
 
-> *Note: Update frontend framework name if required.*
+
 
 ---
 
@@ -124,6 +124,3 @@ This project is shared for learning purposes.
 
 🙏 Credits
 This project was built as part of a microservices learning track focused on real-world Spring Boot applications.
-
-yaml
-Copy code
