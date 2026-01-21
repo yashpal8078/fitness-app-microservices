@@ -25,7 +25,7 @@ fitness-app-microservices/
 ├── eureka/ # Service discovery (Eureka Server)
 ├── gateway/ # API Gateway for routing requests
 ├── userservice/ # User account & profile management
-└── fitness-app-frontend/ # Frontend web application
+└── fitness-app-frontend/ # Frontend web application/
 
 
 Each folder represents a separate module or service in the system.
