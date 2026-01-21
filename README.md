@@ -27,7 +27,9 @@ fitness-app-microservices/
 ├── userservice/ # User account & profile management
 └── fitness-app-frontend/ # Frontend web application
 
+
 Each folder represents a separate module or service in the system.
+
 
 ---
 
